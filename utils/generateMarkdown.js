@@ -44,18 +44,18 @@ ${data.projectUsage}
 ## License
 ${data.projectLicense}
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
-Licensed under the [IBM](LICENSE.txt) Public License Version 1.0 
+Licensed under the [IBM](https://opensource.org/licenses/IPL-1.0) Public License Version 1.0 
 
-Licensed under The [Unlicense](LICENSE.txt)
+Licensed under The [Unlicense](http://unlicense.org/)
 
 ## Contributing
 ${data.projectContrib}
 
 There are many ways in which you can participate in this project, for example:
 
-## Tests
+## Test
 ${data.projectTest}
 
 

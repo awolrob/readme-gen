@@ -23,11 +23,11 @@ Rob Ellingson's project usage
 ## License
 Unlicense
 
-Licensed under the [MIT](LICENSE.txt) license.
+Licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
-Licensed under the [IBM](LICENSE.txt) Public License Version 1.0 
+Licensed under the [IBM](https://opensource.org/licenses/IPL-1.0) Public License Version 1.0 
 
-Licensed under The [Unlicense](LICENSE.txt)
+Licensed under The [Unlicense](http://unlicense.org/)
 
 ## Contributing
 Rob Ellingson's contribution guidelines

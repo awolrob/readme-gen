@@ -79,7 +79,7 @@ const questions = [
     }
   },
   {
-    type: 'input',
+    type: 'input',  
     name: 'projectTest',
     default: "Rob Ellingson's testing",
     message: "How can users test your project",
