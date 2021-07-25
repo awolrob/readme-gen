@@ -60,8 +60,6 @@ Licensed under The [Unlicense](http://unlicense.org/) `;
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
-  // const { projectTitle, projectDesc, projectInstall, projectContrib, projectLicense, email, github } = data;
-  // return `# ${data.projectTitle}
   return `# ${data.projectTitle}
 
   ${renderLicenseBadge(data.projectLicense)}${renderLicenseLink(data.projectLicense)}

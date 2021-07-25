@@ -6,7 +6,6 @@ const markdown = require('./utils/generateMarkdown');
 console.log('Welcome to a professional README.md file generator!');
 
 // TODO: Create an array of questions for user input
-// const questions = [];
 const questions = [
   {
     type: 'input',
@@ -144,8 +143,6 @@ function writeToFile(filename, data) {
 // TODO: Create a function to initialize app
 function init() {
   inquirer.prompt(questions).then((answers) => {
-    // console.log('\nOrder receipt:');
-    // console.log(JSON.stringify(answers, null, '  '));
     const readmeText = markdown(answers);
 
     writeToFile('./readme.md', readmeText);
